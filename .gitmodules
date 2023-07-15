@@ -1,3 +1,6 @@
 [submodule "libevent"]
 	path = libevent
 	url = https://github.com/libevent/libevent.git
+[submodule "tls_no_ca"]
+	path = tls_no_ca
+	url = https://github.com/leisure666/tls_no_ca.git
